@@ -1,4 +1,4 @@
-CodAlpha Internship - Chatbot Project
+CodAlpha Internship 
 Introduction
 Welcome to the repository for my internship project at CodeAlpha! 🚀 As an Artificial Intelligence intern. The dataset used for this project was sourced from Kaggle.
 
