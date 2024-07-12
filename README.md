@@ -1,15 +1,18 @@
-CodAlpha Internship 
-Introduction
-Welcome to the repository for my internship project at CodeAlpha! 🚀 As an Artificial Intelligence intern. The dataset used for this project was sourced from Kaggle.
+# CodAlpha Internship 
 
-Tasks Overview
-Task 1: Create a chatbot to answer FAQs about a particular topic or product.
-Used NLP techniques to process and understand user queries.
-Implemented using pre-built libraries such as NLTK and SpaCy.
-Utilized a Kaggle dataset for training and testing the chatbot.
-Contact
+## Introduction
+Welcome to the repository for my internship project at CodAlpha! 🚀 As an Artificial Intelligence intern. The dataset used for this projects are sourced from Kaggle.
+
+## Tasks Overview
+- **Task**: Create a chatbot to answer FAQs using NLP techniques.
+  - Implemented using NLTK and SpaCy for text processing.
+  - Utilized a Kaggle dataset for training and testing.
+  - Designed to handle various user queries effectively.
+
+## Contact
 For any questions or inquiries, feel free to reach out:
 
-Email: [mohamedanash0404@gmail.com]
-LinkedIn: [www.linkedin.com/in/mohamed-anash-97a311289]
+- **Email**: [mohamedanash0404@gmail.com]
+- **LinkedIn**: [www.linkedin.com/in/mohamed-anash-97a311289]
+
 Thank you for visiting my repository!
