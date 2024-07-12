@@ -8,7 +8,8 @@ Welcome to the repository for my internship projects at CodAlpha! 🚀 As an Art
 
 ### Overview
 During my internship at CodAlpha, I undertook the development of a chatbot capable of answering frequently asked questions (FAQs) about a specific topic or product. Leveraging natural language processing (NLP) techniques, the chatbot processes user queries and generates accurate responses, enhancing user engagement and support.The dataset used for this projects are sourced from Kaggle.
--**Dataset**:[https://www.kaggle.com/datasets/coffeeg/faq-chatbot]
+
+**Dataset**:[https://www.kaggle.com/datasets/coffeeg/faq-chatbot]
 
 ### Key Features
 - **Natural Language Processing (NLP)**: Implemented NLP algorithms using NLTK and SpaCy for text understanding and response generation.
