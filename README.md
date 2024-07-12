@@ -1,7 +1,7 @@
-# CodAlpha Internship 
+# CodeAlpha Internship 
 
 ## Introduction
-Welcome to the repository for my internship project at CodAlpha! 🚀 As an Artificial Intelligence intern. The dataset used for this projects are sourced from Kaggle.
+Welcome to the repository for my internship projects at CodAlpha! 🚀 As an Artificial Intelligence intern. The dataset used for this projects are sourced from Kaggle.
 
 ## Tasks Overview
 - **Task**: Create a chatbot to answer FAQs using NLP techniques.
