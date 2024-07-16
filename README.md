@@ -26,6 +26,16 @@ As part of my internship at CodAlpha, I developed a simple language translation 
 - **User-Friendly Interface**: Designed an intuitive interface for seamless input and output of translated text.
 - **Scalability**: Designed to handle translations between multiple languages, accommodating diverse user needs.
 
+## Task 3: Real-Time Object Detection and Tracking System
+
+### Overview
+As part of my internship at CodAlpha, I developed a system capable of detecting and tracking objects in real-time video streams. Utilizing deep learning models like YOLO (You Only Look Once), the system achieves efficient and accurate object detection and tracking, providing real-time insights into dynamic environments.
+
+### Key Features
+- **Deep Learning Models**: Implemented YOLO for robust and accurate object detection.
+- **Real-Time Processing**: Designed to process video streams in real-time, enabling immediate detection and tracking of objects.
+- **Scalability**: Capable of handling various types of objects and adaptable to different use cases and environments.
+
 ## Contact
 For any questions or inquiries, feel free to reach out:
 
