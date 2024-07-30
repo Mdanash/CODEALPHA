@@ -40,6 +40,6 @@ As part of my internship at CodAlpha, I developed a system capable of detecting 
 For any questions or inquiries, feel free to reach out:
 
 - **Email**: [mohamedanash0404@gmail.com]
-- **LinkedIn**: [www.linkedin.com/in/mohamed-anash-97a311289]
+- **LinkedIn**: [www.linkedin.com/in/mohamed-anash]
 
 Thank you for visiting my repository!
